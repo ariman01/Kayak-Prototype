@@ -1,0 +1,100 @@
+.search-options {
+
+float:left;
+color:black;
+margin-top:30px;
+font-size: 16px;
+
+
+}
+
+#bid {
+
+	float:left;
+}
+
+#uid{
+
+	float:left;
+	margin-left: 90px;
+	text-align: centre;
+}
+#hname {
+
+	margin-left: 100px;
+	float:left;
+
+}
+#bdate {
+
+	float:left;
+	margin-left: 90px;
+
+}
+ #bamt {
+
+float:left;
+	margin-left: 90px;
+
+ }
+#table {
+
+	margin-top: 110px;
+}
+
+#table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+.Hotel-billing-Info{
+
+  height: 1000px;
+	background-color: white;
+}
+.heading{
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
+#date {
+width:174px;
+height:28px;
+border-style: blue;
+margin-left: 4px;
+border-radius: 8px;
+font-size: 15px;
+border: 2px solid #555555;
+}
+
+#search {
+	float:left;
+	height: 30px;
+	margin-top:30px;
+	margin-left:18px;
+	font-size: 14px;
+	border-radius: 10px;
+  border: 2px solid #555555;
+
+}
+
+.dropdown {
+width:160px;
+height:29px;
+
+margin-left : 8px;
+border-radius: 8px;
+font-size: 15px;
+
+}
+
+#or {
+font-size: 20px;
+margin-left: 15px;
+}
+.search-options{
+	text-align: center;
+	margin-left: 30%;
+}
+.Flight-billing-Info{
+	background-color: white;
+}

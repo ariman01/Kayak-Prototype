@@ -1,0 +1,19 @@
+.home-page-header{
+  background-color: transparent;
+  border: none;
+  border-bottom: solid 1px white;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.show-hotel-header{
+  background-color: black;
+}
+
+.show-car-header{
+  background-color: black;
+}
+
+.show-flight-header{
+  background-color: black;
+}

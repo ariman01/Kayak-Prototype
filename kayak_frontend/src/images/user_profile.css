@@ -1,0 +1,34 @@
+.user-profile-header{
+  background-color: black;
+}
+
+.user-profile-body{
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 700px;
+
+}
+
+.user-profile-body-nav-options{
+  font-size: 12pt;
+  padding-top: 100px;
+  padding-left: 100px;
+  margin-top: 20px;
+  height: 700px;
+  width: 30%;
+  display: inline;
+  float: left;
+}
+
+
+.user-profile-body-details{
+  padding-top: 50px;
+  padding-left: 50px;
+  margin-left: 40px;
+  margin-top: 20px;
+  height: 700px;
+  width: 60%;
+  display: inline;
+  float: left;
+}

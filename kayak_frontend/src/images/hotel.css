@@ -1,0 +1,83 @@
+
+.guest-details {
+  width:97%;
+  height:200px;
+  background-color: white;
+  margin-top: 7px;
+  margin-left:  7px;
+  padding-left: 8px;
+  padding-top: 8px;
+
+}
+
+.guest-details1{
+  width:97%;
+  height:180px;
+}
+
+.guest-details-div1{
+  width:45%;
+  height:180px;
+  display: inline;
+  float: left;
+  margin-left: 20px;
+}
+
+.guest-details-div2{
+  width:45%;
+  height:180px;
+  display: inline;
+  float: left;
+  margin-left: 20px;
+}
+
+.hotel-details{
+  width:97%;
+  height:300px;
+  background-color: white;
+  margin-top: 7px;
+  margin-left:  7px;
+  padding-left: 8px;
+}
+.hotel-details1{
+  width:97%;
+  height:100px;
+  background-color: white;
+  margin-top: 7px;
+  margin-left:  7px;
+  padding-left: 8px;
+}
+
+.hotel-details-div{
+  width:97%;
+  height:200px;
+  background-color: white;
+  margin-top: 7px;
+  margin-left:  7px;
+  padding-left: 8px;
+  display: inline;
+  float: left;
+}
+.hotel-details-div1{
+  width:45%;
+  height:200px;
+  background-color: white;
+  margin-top: 7px;
+  display: inline;
+  float: left;
+}
+
+.hotel-details-div2{
+  width:45%;
+  height:200px;
+  background-color: white;
+  margin-top: 7px;
+  margin-left:  7px;
+  padding-left: 8px;
+  display: inline;
+  float: left;
+}
+
+.hotel-billing-page{
+
+}

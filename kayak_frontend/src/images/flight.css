@@ -1,0 +1,34 @@
+.flight-tile{
+  width: 100%;
+  border:3px;
+  height:180px;
+  background-color:white;
+  margin-top: 7px;
+  border: solid 1px grey;
+}
+
+.flight-tile1 {
+  float:left;
+  display:inline;
+  width:65%;
+  height:100%;
+  margin-left:0px;
+}
+.flight-tile2 {
+  float:right;
+  width:23%;
+  height:100%;
+  padding-top: 18px;
+  display:inline;
+  padding-left: 20px;
+  border-width:1px;
+  border-left-style:outset;
+}
+
+.flight-tile-div{
+  float:left;
+  width:20%;
+  display:inline;
+  text-align: center;
+  margin-top: 50px;
+}

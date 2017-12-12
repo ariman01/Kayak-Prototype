@@ -1,0 +1,37 @@
+{
+  "name": "kayak_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "chart": "^0.1.2",
+    "chart.js": "^2.7.1",
+    "material-ui": "^0.19.4",
+    "muicss": "^0.9.29",
+    "prop-types": "^15.6.0",
+    "rc-dropdown": "^2.1.0",
+    "react": "^16.1.1",
+    "react-bootstrap": "^0.31.5",
+    "react-button": "^1.2.1",
+    "react-chartjs-2": "^2.6.4",
+    "react-datepicker": "^0.61.0",
+    "react-dom": "^16.1.1",
+    "react-dropdown-button": "^1.0.11",
+    "react-modal-bootstrap": "^1.1.1",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "react-simple-dropdown": "^3.2.0",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.4.0",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

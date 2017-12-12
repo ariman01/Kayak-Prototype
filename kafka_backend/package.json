@@ -1,0 +1,20 @@
+{
+  "name": "kafka_backend",
+  "version": "1.0.0",
+  "description": "Implementing Kafka node to create a distributed server structure",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arijit",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.1.0",
+    "kafka-node": "^2.2.3",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.2",
+    "mysql": "^2.15.0"
+  }
+}
